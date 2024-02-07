@@ -1,0 +1,50 @@
+/* body{
+    background-color: blue;
+} */
+
+.head{
+    background-color: yellow;
+}
+
+#div1{
+    background-color: blue;
+}
+
+/* button{
+    background-color: red;
+    color: white;
+} */
+
+.content{
+    background-color: black;
+    color: white;
+}
+
+.newClass {
+    /* background-color: aqua; */
+    color : red
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+#div1{
+    height: 180px;
+    width: 170px;
+    background-color: blue;
+}
